@@ -1,8 +1,8 @@
 # Lark Bot Worker
 
-[![Workflow](https://github.com/lawvs/lark-bot-worker/actions/workflows/nodejs.yml/badge.svg)](https://github.com/lawvs/lark-bot-worker/actions/workflows/nodejs.yml)
+[![Workflow](https://github.com/AutoConfigSync/lark-bot-worker/actions/workflows/nodejs.yml/badge.svg)](https://github.com/AutoConfigSync/lark-bot-worker/actions/workflows/nodejs.yml)
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/lawvs/lark-bot-worker)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/AutoConfigSync/lark-bot-worker)
 
 Lark/Feishu bot on Cloudflare Workers.
 
